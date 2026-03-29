@@ -2,7 +2,7 @@
 AI Voice Generator — Text to Speech
 # AI Voice Generator — Text to Speech
 
-**Turn text into natural speech with 95+ AI voices. Free on iPhone & iPad.**
+**Turn text into natural speech with 95+ AI voices in 90+ languages. Free on iPhone & iPad.**
 
 [![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-blue?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/voice-generator-text-to-speech/id1501788870)
 
@@ -10,110 +10,93 @@ AI Voice Generator — Text to Speech
 
 ## What It Does
 
-AI Voice Generator is an iOS app that converts text into realistic AI-generated speech using four TTS engines. Type or dictate your script, pick a voice, adjust parameters, and export studio-quality audio — all on your iPhone or iPad.
+AI Voice Generator is an iOS app that converts text into realistic AI-generated speech. Type or dictate your script, pick from 95+ voices, adjust tone and style, and export studio-quality audio — all on your iPhone or iPad.
 
 ---
 
-## Two Powerful Studios
+## Two Studios, One App
 
 | Studio | What It Does |
 |--------|-------------|
-| **Studio Lite** | Unified voice picker with Google Gemini, OpenAI, and Amazon Polly voices. Hero-card carousel, accent control, karaoke-style previews. |
-| **Storyteller Pro** | Microsoft Azure-powered multi-block editor. Build complex voiceover projects with multiple voice actors and scenes. |
+| **Studio Lite** | All-in-one voice studio with hero-card carousel, accent control, multilingual previews, and AI script generation. |
+| **Storyteller Pro** | Multi-block voiceover editor. Assign different voice actors to different scenes. Build complete audio productions. |
 
 ---
 
-## 95+ AI Voices Across 4 Engines
+## 95+ AI Voices Across 4 Tiers
 
-| Tier | Engine | Voices | Highlights |
-|------|--------|--------|-----------|
-| **Standard** | Amazon Polly | 54 voices | 38 Neural + 12 Neural Premium + 4 Standard. Speed, pitch, whisper, newscaster styles. Free for all users. |
-| **Expressive** | Google Gemini | 30 voices | `gemini-2.5-flash-preview-tts`. Intensity & pacing sliders. Accent-aware prompts. Script tools & speech modifiers. |
-| **Ultra** | OpenAI | 11 voices | `gpt-4o-mini-tts`. Instruction-based accent/style control. Speed 0.25x–4.0x. MP3/Opus/AAC/FLAC/WAV/PCM export. |
-| **Storyteller Pro** | Microsoft Azure | 400+ voices | Multi-block editor. Multiple voice actors per project. Professional voiceover production. |
+| Tier | Voices | Highlights |
+|------|--------|-----------|
+| **Standard** | 54 voices | Neural and classic voices. Speed, pitch, whisper, and newscaster styles. Free for all users. |
+| **Expressive** | 30 voices | Intensity and pacing control. Accent-aware delivery. Script tools and 19 speech modifiers. |
+| **Ultra** | 11 voices | Highest quality. Instruction-based style and accent control. Multiple export formats. |
+| **Storyteller Pro** | 400+ voices | Multi-block editor. Multiple voice actors per project. Professional voiceover production. |
 
 ---
 
-## Features
+## Key Features
 
-- **95+ AI voices** across 4 engines (Polly, Gemini, OpenAI, Azure)
-- **90+ languages** with accent-aware synthesis and auto-fill accent hints
+- **95+ AI voices** across 4 quality tiers
+- **90+ languages** with accent-aware synthesis
 - **AI Script Generator** — describe what you need, AI writes the script
 - **Speech Modifiers** — 19 expressive styles: whispering, shouting, laughing, sighing, and more
 - **Script Catalog** — 12 ready-made templates for common voiceover scenarios
-- **Voice Parameters** — speed, pitch, intensity, pacing, whisper, newscaster styles
-- **Pause Insertion** — tap emoji circles to insert precise pauses (0.5s–4s) at cursor position
+- **Voice Parameters** — speed, pitch, intensity, pacing, whisper, newscaster
+- **Pause Insertion** — tap to insert precise pauses (0.5s–4s) at cursor position
 - **Multilingual Previews** — hear any voice speak in your language before generating
 - **Multiple Export Formats** — MP3, WAV, Opus, AAC, FLAC, PCM
-- **Workspace** — all generations saved and organized across all engines
+- **Accent Auto-Fill** — select a language and get natural accent directions automatically
+- **Workspace** — all generations saved and organized in one place
 - **iPhone and iPad** (iOS 18.1+)
 
 ---
 
-## Language Support
+## Languages
 
-| Engine | Languages |
-|--------|-----------|
-| Amazon Polly | 23 languages |
-| Google Gemini | 90+ languages |
-| OpenAI | 57 languages |
-| Microsoft Azure | 140+ languages |
-
-Supported languages include: English, Spanish, French, German, Italian, Portuguese, Japanese, Korean, Chinese (Mandarin), Chinese (Cantonese), Hindi, Arabic, Russian, Turkish, Dutch, Polish, Swedish, Danish, Norwegian, Finnish, Czech, Romanian, Hungarian, Greek, Hebrew, Thai, Vietnamese, Indonesian, Bengali, Tamil, Telugu, Urdu, Swahili, Ukrainian, and many more.
+90+ languages including English, Spanish, French, German, Italian, Portuguese, Japanese, Korean, Chinese (Mandarin), Chinese (Cantonese), Hindi, Arabic, Russian, Turkish, Dutch, Polish, Swedish, Danish, Norwegian, Finnish, Czech, Romanian, Hungarian, Greek, Hebrew, Thai, Vietnamese, Indonesian, Bengali, Tamil, Telugu, Urdu, Swahili, Ukrainian, and many more.
 
 ---
 
 ## Voice Controls
 
-| Parameter | Standard (Polly) | Expressive (Gemini) | Ultra (OpenAI) | Storyteller Pro (Azure) |
-|-----------|-----------------|-------------------|---------------|----------------------|
-| Speed | 0.6x – 1.5x | Via pacing slider | 0.25x – 4.0x | Per-block control |
-| Pitch | -30% to +30% | — | — | Per-block control |
-| Voice Effects | Whisper, Soft, Loud, Newscaster | 19 speech modifiers | Instruction-based | Per-block styles |
-| Accent Control | — | Auto-fill accent hints | Auto-fill instructions | — |
-| Pause Insertion | SSML breaks | Natural language pauses | Ellipsis-based pauses | Per-block pauses |
+| Parameter | Standard | Expressive | Ultra | Storyteller Pro |
+|-----------|----------|------------|-------|-----------------|
+| Speed | Adjustable | Via pacing | Wide range | Per-block |
+| Pitch | Adjustable | — | — | Per-block |
+| Voice Effects | Whisper, Soft, Loud, Newscaster | 19 modifiers | Instruction-based | Per-block |
+| Accent | — | Auto-fill hints | Auto-fill hints | — |
+| Pauses | Precise timing | Natural pauses | Natural pauses | Per-block |
 
 ---
 
 ## Pricing
 
-| Plan | Credits | Period |
-|------|---------|--------|
-| **Free** | 3,000 | One-time per device |
-| **Monthly** | 150,000 | /month |
-| **3-Month** | 450,000 | /3 months |
-| **6-Month** | 900,000 | /6 months |
-| **Yearly** | 1,800,000 | /year |
-| **Top-Up Packs** | 5K / 20K / 50K | 30-day expiry |
-
-Credit multipliers: Standard 1.0x, Neural 1.5x, Expressive 1.5x, Ultra 2.0x
+| Plan | Credits |
+|------|---------|
+| **Free** | 3,000 credits (one-time) |
+| **Monthly** | 150,000 credits/month |
+| **3-Month** | 450,000 credits/3 months |
+| **6-Month** | 900,000 credits/6 months |
+| **Yearly** | 1,800,000 credits/year |
+| **Top-Up Packs** | 5K / 20K / 50K credits |
 
 ---
 
 ## How It Works
 
-1. **Open Studio Lite or Storyteller Pro**
+1. **Choose a Studio** — Studio Lite for quick generation, Storyteller Pro for multi-scene projects
 2. **Pick a voice** — browse 95+ voices with audio previews in the hero-card carousel
 3. **Choose a language** — 90+ languages with searchable picker and flag emojis
 4. **Write or generate a script** — type, dictate, or use AI Script Generator
 5. **Adjust parameters** — speed, pitch, intensity, effects, accents
 6. **Generate** — AI synthesizes speech in seconds
-7. **Export** — save to Files, share, or use in your projects
+7. **Export** — MP3, WAV, AAC, FLAC, or share directly
 
 ---
 
-## Links
+## Download
 
-- **App Store:** [Download Free](https://apps.apple.com/app/voice-generator-text-to-speech/id1501788870)
-
----
-
-## Built With
-
-- SwiftUI (iOS 18.1+)
-- AWS Polly, Google Gemini TTS, OpenAI TTS, Microsoft Azure Speech
-- StoreKit 2 for subscriptions and consumables
-- iCloud KVS for cross-device credit sync
+[![App Store](https://img.shields.io/badge/Download_Free-App%20Store-blue?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/voice-generator-text-to-speech/id1501788870)
 
 ---
 
